@@ -1,0 +1,19 @@
+Travel App README
+Welcome to the Travel App! This mobile application provides users with a delightful travel experience, offering features such as a loading screen, a welcoming home screen, a user-friendly login interface, a seamless sign-up process, and a visually appealing destination list.
+
+Loading Screen
+The loading screen serves as an engaging introduction to the app, featuring a bouncing logo and a loading spinner. It creates a sense of anticipation while simulating a data-loading process for 3 seconds. Once completed, users are greeted with a warm welcome message and transitioned to the 'WelcomeScreen.'
+
+Welcome Screen
+The 'WelcomeScreen' sets the tone for the travel app with a captivating background image and a friendly message: "Welcome to ElyassesTravelGuide!" Users are presented with options to log in, register, or continue without logging in. The screen is designed to be visually appealing, creating an inviting atmosphere for users to explore the app further.
+
+Login Screen
+The login screen provides users with a secure and straightforward way to access the app's main features. With a background image setting the mood, users can enter their email and password. Upon pressing the "Login" button, the app verifies the credentials. If correct, users are directed to the 'DestinationScreen.' If an issue arises, such as an incorrect password, users receive prompt feedback. The design prioritizes simplicity and user-friendliness for a seamless login experience.
+
+Sign-up Screen
+The sign-up screen facilitates a hassle-free registration process for users. They can input their username, email, age, password, and phone number. The app validates the input data and checks for password confirmation. Successful registration stores the user's information in a database, and users are redirected to the 'WelcomeScreen' to start their journey with the travel app.
+
+Destination Screen
+The destination screen offers users a visually pleasing list of destinations, each accompanied by a name and image. Tapping on a destination reveals more details on a separate screen. The list is thoughtfully designed with rounded borders and shadows to enhance the visual experience, encouraging users to explore and discover exciting travel options.
+
+Feel free to navigate through the different screens and features of the Travel App. Whether you're a new user or a seasoned traveler, we hope you enjoy the seamless and visually appealing experience we've crafted for you. Safe travels!
